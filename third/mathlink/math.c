@@ -3,7 +3,7 @@
 enum {false,true};
 
 #include <assert.h>
-#include <wstp.h>
+#include "wstp.h"
 #include <math.h>
 #include <matrix.h>
 #include <mex.h>

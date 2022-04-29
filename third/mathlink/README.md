@@ -24,7 +24,7 @@ mathrun.m	- template for compiling math.c
 testscript.m 	- one-line code math function call examples, also included below
 LICENSE.md	- license governing all files in the repo except Mathematica files (wstp.h)
 Version history.md - historical notes
-   
+
 Usage: Mathematica Symbolic Toolbox is called via the "math" function:
 -----------------------------------------------------------------
 math('string')          : 'string' is sent to Mathematica and evaluated as command; the
